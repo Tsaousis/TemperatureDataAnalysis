@@ -8,4 +8,4 @@ Feel free to contact me for any more information!
 
 
 
-<img width="803" alt="image" src="https://user-images.githubusercontent.com/75045818/153246244-3f107aad-cf73-4f9e-aa54-c1fdaff347b5.png">
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/75045818/153246244-3f107aad-cf73-4f9e-aa54-c1fdaff347b5.png">
